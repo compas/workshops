@@ -1,5 +1,5 @@
 # CompAS Workshops
 Collected materials
 
-2010
-2022 - Sopot/Gdansk
+- 2010 
+- 2022 - Sopot/Gdansk. 
