@@ -7,4 +7,4 @@ The meeting included 29 participants, 21 talks and 1 workshop (machine learning,
 ### Content
 - Program
 - [Photos](https://github.com/compas/workshops/tree/main/2022_Poland/photos)
-- [Machine-learning workshop](https://github.com/sylas/CompAS_2022_ANN) (Pawel Syty)
+- [Machine-learning workshop](https://github.com/sylas/CompAS_2022_ANN)
