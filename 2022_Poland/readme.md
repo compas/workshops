@@ -1,4 +1,4 @@
-## CompAS 2022 - Gdansk, Poland (October 1-3, 2022)
+## CompAS 2022 - Gdańsk/Sopot, Poland (October 1-3, 2022)
 
 **PAWEL: PLEASE EDIT ALL THIS AS YOU SEE FIT :) /JON**
 
