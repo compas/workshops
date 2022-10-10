@@ -8,7 +8,7 @@ The 2022 edition of the CompAS workshop was hosted by Gdańsk University of Tech
 - Gdańsk University of Technology, Narutowicza 11/12, 80-233 Gdańsk, Poland
 
 ### Content
-- [Announcement]()
+- [Announcement](https://github.com/compas/workshops/blob/main/2022_Poland/CompaAS_2022-Announcement.pdf)
 - Program
 - List of participants
 - Slides
